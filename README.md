@@ -1,5 +1,3 @@
-# ProyectoGimnasioJava
-Repositorio base para actividad práctica con GitHub y Java
 
 # Gimnasio en Java
 Este repositorio contiene una clase base para gestionar actividades en un gimnasio. Deben realizar un fork y mejorar el proyecto.
